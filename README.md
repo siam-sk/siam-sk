@@ -1,4 +1,4 @@
-## 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Siam Sheikh
+## Hello, I'm Siam Sheikh
 
 [](https://github.com/siam-sk#hello-there)
 
