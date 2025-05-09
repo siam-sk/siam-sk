@@ -10,7 +10,7 @@
 - 💬 `ping` me about  **JavaScript**, **React**, **development**, **Admin**
 - 📌 Interests: UX, UI Design, Video Editing, Graphic Design, Sys Admin.
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## My Tech Stack
 
 [](https://github.com/siam-sk#𝗠𝘆-𝗧𝗲𝗰𝗸-𝗦𝘁𝗮𝗰𝗸)
 
