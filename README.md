@@ -5,10 +5,10 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siammsheikh09@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siammsheikh/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/siam.sheikh11/)
 - 💻 I'm a MERN stack developer
-- ⚙️ I use daily: `.jsx`, `.js`, `.html`, `.css`, `.svg`, `.md`
+- ⚙️ I use daily: `.jsx`, `.js`, `.html`, `.css`, `.md`
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning Python
-- 💬 `ping` me about  **JavaScript**, **React**, **development**, **Admin**
+- 💬 `ping` me about  **JavaScript**, **React**, **development**, **Admin**, **WebDev**
 - 📌 Interests: UX, UI Design, Video Editing, Graphic Design, Sys Admin.
 
 ## My Tech Stack
