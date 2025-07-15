@@ -3,7 +3,7 @@
 
 [](https://github.com/siam-sk#hello-there)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siammsheikh09@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siammsheikh/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/siam.sheikh11/)
+![Portfolio](https://siamsk.me/) | ![LinkedIn](https://www.linkedin.com/in/siammsheikh/) | ![Resume](https://drive.google.com/file/d/1gTAVZKuPsOwwyxqAzAeKkBMyDnE2mcVn/view?usp=sharing)
 
 Hello, I am Siam Sheikh. I am Full Stack Web Developer. I am passionate about building efficient and user-friendly web applications, having successfully developed responsive interfaces and robust backend solutions during my projects. I am currently persuing my bachelor's degree in Computer Science and Engineering from United International University.
 
