@@ -9,7 +9,7 @@ Hello, I am Siam Sheikh. I am Full Stack Web Developer. I am passionate about bu
 
 - 💻 I'm a MERN stack developer
 - ⚙️ I use daily: `.jsx`, `.js`, `.html`, `.css`, `.md`
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m currently working on a cool project
 - 🌱 I’m currently learning Python
 - 💬 `ping` me about  **JavaScript**, **React**, **development**, **Admin**, **WebDev**
 - 📌 Interests: UX, UI Design, Video Editing, Graphic Design, Sys Admin.
