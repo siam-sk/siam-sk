@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/siam-sk/siam-sk/refs/heads/main/Social%20Banner.png)
+![]([https://raw.githubusercontent.com/siam-sk/siam-sk/refs/heads/main/Social%20Banner.png](https://raw.githubusercontent.com/siam-sk/siam-sk/refs/heads/main/GitHub%20Banner2.png))
 ## About Me
 
 [](https://github.com/siam-sk#hello-there)
