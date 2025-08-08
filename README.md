@@ -7,10 +7,10 @@
 
 Hello, I am Siam Sheikh. I am Full Stack Web Developer. I am passionate about building efficient and user-friendly web applications, having successfully developed responsive interfaces and robust backend solutions during my projects. I am currently persuing my bachelor's degree in Computer Science and Engineering from United International University.
 
-- 💻 I'm a MERN stack developer
+- 💻 I'm a MERN Stack Developer
 - ⚙️ I use daily: `.jsx`, `.js`, `.html`, `.css`, `.md`
-- 🔭 I’m currently working on a cool project
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on a task management project
+- 🌱 I’m currently learning Next.js
 - 💬 `ping` me about  **JavaScript**, **React**, **development**, **Admin**, **WebDev**
 - 📌 Interests: UX, UI Design, Video Editing, Graphic Design, Sys Admin.
 
